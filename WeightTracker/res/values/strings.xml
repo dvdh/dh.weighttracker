@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeightTracker</string>
+    <string-array name="recipient_email_options">
+        <item>Myself</item>
+        <item>Contact</item>
+        <item>Add Contact</item>
+    </string-array>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="new_entry_time">Entry time (new)</string>
+    <string name="modify_entry_time">Entry time (modify)</string>
+    <string name="no_weight_entries_yet">No weight entries yet.</string>
+    <string name="weight_pounds">Weight (lb)</string>
+    <string name="weight_kilograms">Weight (kg)</string>
+    <string name="delete">Delete</string>
+    <string name="settings_name">Your name</string>
+    <string name="settings_user_email">Your email</string>
+    <string name="settings_default_recipient_email">Default recipient email</string>
+    <string name="select">Select</string>
+    <string name="weight_unit">Weight unit</string>
+    <string name="pounds">Pounds</string>
+    <string name="kilograms">Kilograms</string>
+</resources>

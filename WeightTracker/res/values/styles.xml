@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PickerDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/move_up</item>
+        <item name="android:windowExitAnimation">@anim/move_down</item>
+    </style>
+</resources>

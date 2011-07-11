@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:padding="3sp"
+  >
+    <RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		>
+        <TextView
+        	android:id="@+id/weight_history_entry_date"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentLeft="true"
+        	android:textAppearance="?android:attr/textAppearanceLarge"
+        	android:textSize="28sp"
+        	android:text="Date"
+        	>
+       	</TextView>
+        <TextView
+        	android:id="@+id/weight_history_entry_weight"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentRight="true"
+        	android:textAppearance="?android:attr/textAppearanceLarge"
+        	android:textSize="28sp"
+        	android:text="Weight"
+        	>
+       	</TextView>
+    </RelativeLayout>
+</LinearLayout>
